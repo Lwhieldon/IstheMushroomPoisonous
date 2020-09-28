@@ -21,3 +21,18 @@ This assignment contains 3 primary areas:
   <li><a href=>Presentation:</a>. Powerpoint presentation to support the deliverables. - TO DO</li>
   
 </ol>
+
+<pre>
+Contributors : <a href=https://github.com/Lwhieldon>Lee Whieldon</a>
+</pre>
+
+<pre>
+Languages    : Python
+Tools/IDE    : Anaconda
+Libraries    : TBD
+</pre>
+
+<pre>
+Assignment Submitted     : October 2020
+</pre>
+
