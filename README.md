@@ -8,7 +8,7 @@
 
 Is it possible to tell if a mushroom is poisonous or not just by its physical characteristics? In this project, I explore using classification algorithms to predict if a mushroom is edible or if it will lead to certain death!
 
-This dataset and project derived from the <a href=https://www.kaggle.com/uciml/mushroom-classification/version/1>UCI Machine Learning Repository</a> on kaggle. 
+This dataset and project derived from the <a href=https://archive.ics.uci.edu/ml/datasets/mushroom>UCI Machine Learning Repository</a>. 
 
 ## Deliverables:
 
