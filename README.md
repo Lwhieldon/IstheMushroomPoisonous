@@ -9,7 +9,7 @@
 
 ## Overview
 
-Is it possible to tell if a mushroom is poisonous or not just by its physical characteristics? In this project, I explore using classification algorithms to predict if a mushroom is edible or if it will lead to certain death!
+Is it possible to tell if a mushroom in North American is poisonous or not just by its physical characteristics? In this project, I explore using classification algorithms to predict if a mushroom in North America is edible or if it will lead to certain death!
 
 ## Goals
 
