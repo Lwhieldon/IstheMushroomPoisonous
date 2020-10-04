@@ -30,6 +30,7 @@ This assignment contains 3 primary areas:
 <ol>
   <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/Mushroom%20Classification%20Presentation.pptx>Presentation:</a> Powerpoint presentation to support the deliverables. - TO DO</li>
   <li><a href=https://archive.ics.uci.edu/ml/datasets/mushroom>Dataset Used for Assignment:</a>. Dataset is derived from the ICU Machine Learning Repository. Originally mushroom records were drawn from <i>Audobon Society Field Guide to North American Mushrooms </i>(1981). G. H. Lincoff (Pres.), New York: Alfred A. Knopf. </li>
+  <li><a href=>Dataset Labels</a> A helpful text file explaining each feature label assigned to a mushroom. </li>
   <li><a href=>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. - TO DO</li>
   <li> <a href=>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. - TO DO</li>
  
