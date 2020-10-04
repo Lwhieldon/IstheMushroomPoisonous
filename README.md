@@ -45,7 +45,7 @@ Contributors : <a href=https://github.com/Lwhieldon>Lee Whieldon</a>
 <pre>
 Languages    : Python
 Tools/IDE    : Anaconda
-Libraries    : TBD
+Libraries    : pandas, numpy, matplotlib, seaborn, sklearn
 </pre>
 
 <pre>
