@@ -1,4 +1,4 @@
-# Poison Musthroom Alert! 
+# Poison Mushroom Alert! 
 <p align="center"style="font-size:22px">
  Deadly versus Edible Mushroom Classification
 </p>
@@ -13,6 +13,13 @@ Is it possible to tell if a mushroom is poisonous or not just by its physical ch
 
 ## Goals
 
+This repo is part of the work completed within UMBC's DATA602 Course: Intro to Data Analysis and Machine Learning.
+
+In this project, I attempt to achieve the following:
+<ol>
+<li></li>
+</ol>
+
 ## Motivation and Background
 
 
@@ -21,10 +28,12 @@ Is it possible to tell if a mushroom is poisonous or not just by its physical ch
 This assignment contains 3 primary areas:
 
 <ol>
+  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/Mushroom%20Classification%20Presentation.pptx>Presentation:</a> Powerpoint presentation to support the deliverables. - TO DO</li>
+  <li><a href=https://archive.ics.uci.edu/ml/datasets/mushroom>Dataset Used for Assignment:</a>. Dataset is derived from the ICU Machine Learning Repository. Originally mushroom records were drawn from <i>Audobon Society Field Guide to North American Mushrooms </i>(1981). G. H. Lincoff (Pres.), New York: Alfred A. Knopf. </li>
   <li><a href=>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. - TO DO</li>
   <li> <a href=>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. - TO DO</li>
-  <li><a href=https://archive.ics.uci.edu/ml/datasets/mushroom>Dataset Used for Assignment:</a>. Dataset is derived from the ICU Machine Learning Repository. Originally mushroom records were drawn from <i>Audobon Society Field Guide to North American Mushrooms </i>(1981). G. H. Lincoff (Pres.), New York: Alfred A. Knopf. 
-  <li><a href=>Presentation:</a>. Powerpoint presentation to support the deliverables. - TO DO</li>
+ 
+
   
 </ol>
 
