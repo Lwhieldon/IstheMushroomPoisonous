@@ -1,6 +1,6 @@
 # Poison Mushroom Alert! 
 <p align="center"style="font-size:22px">
- Deadly versus Edible Mushroom Classification
+ Deadly v. Edible Mushroom Classification
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ## Overview
 
-Is it possible to tell if a mushroom in North American is poisonous or not just by its physical characteristics? In this project, I explore using classification algorithms to predict if a mushroom in North America is edible or if it will lead to certain death!
+Is it possible to tell if a mushroom in North American is poisonous or not just by its physical characteristics? In this project, I compare different classification algorithms to predict if a mushroom in North America is edible or if it will lead to certain death!
 
 ## Goals
 
@@ -17,29 +17,50 @@ This repo is part of the work completed within UMBC's DATA602 Course: Intro to D
 
 In this project, I attempt to achieve the following:
 <ol>
-<li><b>Optimal Classification Model:</b> Comparing k-Nearest Neighbors, Logistic Regression, and Perceptron techniques for model accuracy.</li>
-<li><b>Edible v. Poisonous Mushroom Features:</b> Determine the common features to detect toxic versus edible North American mushrooms based on their features.</li>
-<li><b>Provide Solid Feedback to Stakeholders:</b> Effectively articulating outcomes of study and next steps to key stakeholders in the mushroom foraging communities (in this fictitious case, Oregan).</li>
+<li><b>Exploration of Mushroom Features:</b> Determine the common features to detect toxic versus edible North American mushrooms based on their features.</li>
+<li><b>Optimal Classification Model:</b> Compare several ML models for model accuracy: Logistic Regression, Support Vector Classification (SVC), K Nearest Neighbor (kNN), and Decision Tree Classification.</li>
+<li><b>Provide Solid Feedback to Stakeholders:</b> Effectively articulate outcomes of study and next steps to key stakeholders in the mushroom foraging communities (in this fictitious case, Oregan).</li>
 </ol>
 
 ## Motivation and Background
 
+Mushrooms (a.k.a. Fungi) have a multitude of uses for humankind. From medicine, food, and even for esoteric uses like packaging & biofuel, fungi have the potential to unlock biological material that's considered a 'waste product' in our civilization and convert it into something else entirely useful. Small business communities of mushroom foragers are now more than ever seeing a rise in the interest of fungi throughout the world.
 
-## Table of Contents:
+In this project, I will pretend that I am a data scientist hired by a business community of local mushroom foragers in Oregon and they need my help to build out a better process to identify if mushrooms are poisonous or edible; they have a bunch of 'young' foragers who need a little help!
+<p align="center">
+<img src="https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/images/587c2ffe1150c.image.jpg?raw=true" height="300" />
+</p>
 
-This assignment contains 3 primary areas:
+## Data Details
+
+<a href=https://archive.ics.uci.edu/ml/datasets/mushroom>UCI Machine Learning Mushroom Dataset</a>
+
+This dataset contains 8124 entries corresponding to 23 species of gilled mushrooms from North America.
+
+Each species is identified as:
+<ul>
+<li>Definitely edible (e),</li> 
+<li>Definitely poisonous (p), or</li> 
+<li>Of unknown edibility and not recommended (also p).</li> 
+<li>Each entry is a single mushroom and has 22 features related to its physical characteristics. </li>
+</ul>
+
+Mushroom records drawn from <i>The Audubon Society Field Guide to North American Mushrooms (1981)</i>. G. H. Lincoff (Pres.), New York: Alfred A. Knopf
+ 
+## Table of Contents
+
+This assignment contains 5 primary areas:
 
 <ol>
   <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/Mushroom%20Classification%20Presentation.pptx>Presentation:</a> Powerpoint presentation to support the deliverables. - TO DO</li>
-  <li><a href=https://archive.ics.uci.edu/ml/datasets/mushroom>Dataset Used for Assignment:</a>. Dataset is derived from the ICU Machine Learning Repository. Originally mushroom records were drawn from <i>Audobon Society Field Guide to North American Mushrooms </i>(1981). G. H. Lincoff (Pres.), New York: Alfred A. Knopf. </li>
+  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/mushrooms.csv>Dataset in Repo</a>. Local copy of the original dataset from the ICU Machine Learning Repository.</li>
   <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/labels.txt>Dataset Labels</a> A helpful text file explaining each feature label assigned to a mushroom. </li>
   <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/summaryreport.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. - TO DO</li>
   <li> <a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. - TO DO</li>
- 
-
-  
+   
 </ol>
 
+<br>
 <pre>
 Contributors : <a href=https://github.com/Lwhieldon>Lee Whieldon</a>
 </pre>
