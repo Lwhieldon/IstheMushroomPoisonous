@@ -17,7 +17,7 @@ This repo is part of the work completed within UMBC's DATA602 Course: Intro to D
 
 In this project, I attempt to achieve the following:
 <ol>
-<li><b>Exploration of Mushroom Features:</b> Determine the common features to detect toxic versus edible North American mushrooms based on their features.</li>
+<li><b>Exploration of Mushroom Features:</b> Examine features of toxic versus edible North American mushrooms, detailing findings.</li>
 <li><b>Optimal Classification Model:</b> Compare several ML models for model accuracy: Logistic Regression, Support Vector Classification (SVC), K Nearest Neighbor (kNN), and Decision Tree Classification.</li>
 <li><b>Provide Solid Feedback to Stakeholders:</b> Effectively articulate outcomes of study and next steps to key stakeholders in the mushroom foraging communities (in this fictitious case, Oregan).</li>
 </ol>
