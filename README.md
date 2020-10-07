@@ -53,10 +53,10 @@ This assignment contains 5 primary areas:
 
 <ol>
   <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/Mushroom%20Classification%20Presentation.pptx>Presentation:</a> Powerpoint presentation to support the deliverables. - TO DO</li>
-  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/mushrooms.csv>Dataset in Repo</a>. Local copy of the original dataset from the ICU Machine Learning Repository.</li>
-  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/labels.txt>Dataset Labels</a> A helpful text file explaining each feature label assigned to a mushroom. </li>
-  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/summaryreport.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. - TO DO</li>
-  <li> <a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. - TO DO</li>
+  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata/mushrooms.csv>Dataset in Repo</a>. Local copy of the original dataset from the ICU Machine Learning Repository.</li>
+  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata/labels.txt>Dataset Labels</a> A helpful text file explaining each feature label assigned to a mushroom. </li>
+  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata/summaryreport.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. - TO DO</li>
+  <li> <a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata/code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. - TO DO</li>
    
 </ol>
 
