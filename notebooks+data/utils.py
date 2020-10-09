@@ -2,11 +2,13 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 def model_visualization(model,X,y,classifier):
-    '''
+    """
     Takes results from training dataset & visualizes it using ListedColormap
-    :param categorical_variables: string. inserts the name of the model being assigned to title of plot.
-    :return: Plot. A new ListedColorMap showing results from two predictors attributes.
-    '''
+    :param model: name of the model to print on top of visual.
+    :param X: train or test x predictors
+    :param y: train or test y label
+    :return: It returns a plot. The image is not saved.
+    """
     sns.set_context(context='notebook',font_scale=2)
     plt.figure(figsize=(16,9))
     from matplotlib.colors import ListedColormap
@@ -24,6 +26,11 @@ def model_visualization(model,X,y,classifier):
     plt.legend()
 
 def data_plot(hue, data):
+    """
+    Takes pandas dataframe and creates a countplot
+    :param data.columns: pandas dataframe columns
+    :return: It returns a plot. Expected to read by pandas dataframe.
+    """
     for i, col in enumerate(data.columns):
         plt.figure(i)
         sns.set(rc={'figure.figsize':(8, 4)})
@@ -33,6 +40,15 @@ from sklearn.model_selection import cross_val_predict, cross_val_score
 from sklearn.metrics import confusion_matrix,classification_report,accuracy_score
 
 def print_score(classifier,X_test,y_test):
+    """
+    Takes in classifier, x & y test variables and print the model's accuracy
+    classification report, and confusion matrix
+    :param classifier: classifier that the model has been sustantiated
+    :param X_test: test predictors
+     :param y_test: test labels
+    :return: printed output of accuracy score, classification report, and 
+    confusion matrix.
+    """
     print("Test results:\n")
     print('Accuracy Score: {0:.4f}\n'.format(accuracy_score(y_test,classifier.predict(X_test))))
     print('Classification Report:\n{}\n'.format(classification_report(y_test,classifier.predict(X_test))))
