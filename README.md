@@ -54,7 +54,7 @@ Mushroom records drawn from <i>The Audubon Society Field Guide to North American
 This assignment contains 6 areas:
 
 <ol>
-  <li><a href=>Presentation:</a> Powerpoint presentation to support the deliverables. - TO DO</li>
+  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/Presentation.pdf>Presentation:</a> Powerpoint presentation to support the deliverables. - TO DO</li>
   <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/mushrooms.csv>Dataset in Repo</a>. Local copy of the original dataset from the ICU Machine Learning Repository.</li>
   <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/labels.txt>Dataset Labels</a> A helpful text file explaining each feature label assigned to a mushroom. </li>
   <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/summaryreport.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
