@@ -7,7 +7,7 @@ def model_visualization(model,X,y,classifier):
     :param model: name of the model to print on top of visual.
     :param X: train or test x predictors
     :param y: train or test y label
-    :return: It returns a plot. The image is not saved.
+    :return: It returns a plot. The image is saved in images folder.
     """
     sns.set_context(context='notebook',font_scale=2)
     plt.figure(figsize=(16,9))
@@ -31,7 +31,7 @@ def data_plot(hue, data):
     Takes pandas dataframe, creates a countplot, print plots to image folder
     :param data: pandas dataframe column(s) to be visualized
     :param hue: label for prediction from pandas dataframe (extracted as an array)
-    :return: It returns a plot. Expected to read by pandas dataframe.
+    :return: It returns a plot. Expected to read by pandas dataframe. The image is save in images folder.
     """
     for i, col in enumerate(data.columns):
         plt.figure(i)
