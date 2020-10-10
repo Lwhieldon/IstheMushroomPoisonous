@@ -34,7 +34,7 @@ def data_plot(hue, data):
     """
     for i, col in enumerate(data.columns):
         plt.figure(i)
-        sns.set(rc={'figure.figsize':(8, 4)})
+        sns.set(rc={'figure.figsize':(7, 3)})
         sns.countplot(x=data[col],palette='husl',hue=hue,data=data)
         plt.savefig('images/{0}.png'.format(col))       
 
