@@ -29,7 +29,8 @@ def model_visualization(model,X,y,classifier):
 def data_plot(hue, data):
     """
     Takes pandas dataframe, creates a countplot, print plots to image folder
-    :param data.columns: pandas dataframe columns
+    :param data: pandas dataframe column(s) to be visualized
+    :param hue: label for prediction from pandas dataframe (extracted as an array)
     :return: It returns a plot. Expected to read by pandas dataframe.
     """
     for i, col in enumerate(data.columns):
