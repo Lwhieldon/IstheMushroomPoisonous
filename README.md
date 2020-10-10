@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-<img src="https://github.com/Lwhieldon/MushroomClassification/blob/master/images/edible-vs-poisonous-mushrooms.jpg?raw=true" width="400" height="200" />
+<img src="https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks+data+images/images/edible-vs-poisonous-mushrooms.jpg?raw=true" width="400" height="200" />
 </p>
 
 ## Overview
@@ -30,7 +30,7 @@ Mushrooms are equally as useful as they are morbid: In a study conducted in Turk
 
 In this project, I will pretend that I am a data scientist hired by a business community of local mushroom foragers in Oregon and they need my help to build out a better process to identify if gilled mushrooms are poisonous or edible; they have a bunch of 'young' foragers who need a little help!
 <p align="center">
-<img src="https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/images/587c2ffe1150c.image.jpg?raw=true" height="300" />
+<img src="https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks+data+images/images/587c2ffe1150c.image.jpg?raw=true" height="300" />
 </p>
 
 ## Data Details
@@ -51,15 +51,15 @@ Mushroom records drawn from <i>The Audubon Society Field Guide to North American
  
 ## Table of Contents
 
-This assignment contains 5 primary areas:
+This assignment contains 6 areas:
 
 <ol>
   <li><a href=>Presentation:</a> Powerpoint presentation to support the deliverables. - TO DO</li>
-  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata/mushrooms.csv>Dataset in Repo</a>. Local copy of the original dataset from the ICU Machine Learning Repository.</li>
-  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata/labels.txt>Dataset Labels</a> A helpful text file explaining each feature label assigned to a mushroom. </li>
-  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata/summaryreport.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
-  <li> <a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata/code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. </li>
-   
+  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/mushrooms.csv>Dataset in Repo</a>. Local copy of the original dataset from the ICU Machine Learning Repository.</li>
+  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/labels.txt>Dataset Labels</a> A helpful text file explaining each feature label assigned to a mushroom. </li>
+  <li><a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/summaryreport.ipynb>Summary and Report</a>: Jupyter Notebook including a detailed abstract on problems in assignment, code relevant to project, and visualizations supporting the completion of the project. </li>
+  <li> <a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/code.ipynb>Code:</a> Area to perform testing of dataset, functions, and implement models before final project output. </li>
+  <li> <a href=https://github.com/Lwhieldon/IstheMushroomPoisonous/blob/master/notebooks%2Bdata%2Bimages/utils.py>utils.py:</a> .py file to store functions I use throughout the project to make notebooks & summary report clean. </li>
 </ol>
 
 <br>

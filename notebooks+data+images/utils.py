@@ -24,17 +24,19 @@ def model_visualization(model,X,y,classifier):
     plt.xlabel('PC 1')
     plt.ylabel('PC 2')
     plt.legend()
+    plt.savefig('images/{0}.png'.format(model))  
 
 def data_plot(hue, data):
     """
-    Takes pandas dataframe and creates a countplot
+    Takes pandas dataframe, creates a countplot, print plots to image folder
     :param data.columns: pandas dataframe columns
     :return: It returns a plot. Expected to read by pandas dataframe.
     """
     for i, col in enumerate(data.columns):
         plt.figure(i)
         sns.set(rc={'figure.figsize':(8, 4)})
-        ax = sns.countplot(x=data[col],palette='husl',hue=hue,data=data)
+        sns.countplot(x=data[col],palette='husl',hue=hue,data=data)
+        plt.savefig('images/{0}.png'.format(col))       
 
 from sklearn.model_selection import cross_val_predict, cross_val_score
 from sklearn.metrics import confusion_matrix,classification_report,accuracy_score
