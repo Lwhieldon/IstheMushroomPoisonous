@@ -51,7 +51,7 @@ Mushroom records drawn from <i>The Audubon Society Field Guide to North American
  
 ## Video Presentation
 
-A virtual presentation has been created to help support this project. Please review the video using think link: https://youtu.be/Aucre0hED7A
+A virtual presentation has been created to help support this project. Please review the video using think link: https://youtu.be/bL5E18r6EYc
 
 ## Table of Contents
 
